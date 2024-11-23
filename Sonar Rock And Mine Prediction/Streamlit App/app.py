@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 # Load the model
-model = joblib.load('D:/Projects/SonarRockvsMinePrediction/model/sonar_model.pkl')
+model = joblib.load('model/sonar_model.pkl')
 
 # Streamlit app
 st.title("Sonar Rock/Mine Prediction")
