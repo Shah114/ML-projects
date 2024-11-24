@@ -2,10 +2,10 @@
 - Table of Contents
 - Overview
 - Projects
-    - Project 1: <Title>
-    - Project 2: <Title>
-    - Project 3: <Title>
-    - Project 4: <Title>
+    - Project 1: <Fake News Prediction>
+    - Project 2: <Gold Price Prediction>
+    - Project 3: <Sonar Rock and Mine Prediction>
+    - Project 4: <Stock Price Prediction>
 - Technologies Used
 - Installation and Usage
 - Future Enhancements
